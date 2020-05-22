@@ -121,3 +121,5 @@ package-lock.json
 
 uploads/videos
 uploads
+
+.eslintrc.js
